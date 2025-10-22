@@ -1,4 +1,5 @@
 🧩 Circuito RC — Carga e Descarga
+
 🎯 Objetivo
 
 O objetivo deste experimento foi observar o comportamento da carga e descarga de um capacitor em um circuito RC (Resistor + Capacitor), analisando a variação de tensão ao longo do tempo tanto no resistor (R) quanto no capacitor (C).
